@@ -1,0 +1,16 @@
+{
+    "compatibleVersion": 1,
+    "bundleVersion": 1,
+    "commands": [
+        {
+            "name": "react-sketchapp-boilerplate",
+            "identifier": "main",
+            "script": "./index.js"
+        }
+    ],
+    "menu": {
+        "isRoot": true,
+        "items": ["main"]
+    }
+}
+

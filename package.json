@@ -1,0 +1,30 @@
+{
+  "name": "react-sketchapp-boilerplate",
+  "version": "0.1.0",
+  "description": "A project with basic setup of react-sketchapp to get you started without wrting everything from scratch.",
+  "main": "react-sketchapp-boilerplate.sketchplugin",
+  "manifest": "src/manifest.json",
+  "scripts": {
+    "build": "skpm build",
+    "watch": "skpm build --watch",
+    "render": "skpm build --watch --run",
+    "render:once": "skpm build --run",
+    "web": "react run src/web.js",
+    "link-plugin": "skpm link",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brijesh Bittu <brijeshb42@gmail.com> (http://bitwiser.in/)",
+  "license": "MIT",
+  "devDependencies": {
+    "skpm": "^0.9.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.8",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-primitives": "^0.3.4",
+    "react-sketchapp": "^0.10.2",
+    "react-test-renderer": "^15.5.4"
+  }
+}
