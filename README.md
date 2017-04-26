@@ -23,4 +23,4 @@ A boilerplate project to quickly get you up and running.
 
 > Make sure the Sketch app is already running and you have an empty project open.
 
-`README` will be updated ith more commands soon.
+`README` will be updated with more commands soon.
