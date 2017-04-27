@@ -22,8 +22,6 @@
   "dependencies": {
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4",
-    "react-primitives": "^0.3.4",
     "react-sketchapp": "^0.10.2",
     "react-test-renderer": "^15.5.4"
   }
